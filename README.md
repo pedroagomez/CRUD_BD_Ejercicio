@@ -1,5 +1,5 @@
->[!NOTE]
-Ejercicio
+>[!Ejercico]
+
 Un estudiante de programacion desea llevar el control de los temas que aprendio en diferentes
 cursos para luego poderlos incluir en su CV. Para ellos, creo una base de datos llamada
 cursos. A partir de la creacion de la BD , empezo con el desarrollo de una 
