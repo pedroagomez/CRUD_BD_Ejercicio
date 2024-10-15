@@ -1,3 +1,4 @@
+>[!NOTE]
 Ejercicio
 Un estudiante de programacion desea llevar el control de los temas que aprendio en diferentes
 cursos para luego poderlos incluir en su CV. Para ellos, creo una base de datos llamada
