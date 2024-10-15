@@ -1,21 +1,14 @@
-<h3>Ejercico</h3>
-<br>
+<h3>Ejercicio</h3>
 
-Un estudiante de programacion desea llevar el control de los temas que aprendio en diferentes<br>
+<p>Un estudiante de programación desea llevar el control de los temas que aprendió en diferentes cursos para luego poder incluirlos en su CV. Para ello, creó una base de datos llamada <strong>cursos</strong>.</p>
 
+<p>A partir de la creación de la base de datos, comenzó con el desarrollo de una aplicación y realizó el modelado de dos clases: <strong>Curso</strong> y <strong>Tema</strong>, donde un curso puede contener varios temas.</p>
 
-cursos para luego poderlos incluir en su CV. Para ellos, creo una base de datos llamada<br>
+<p>El estudiante desea desarrollar una API que le permita realizar las siguientes acciones:</p>
 
-cursos. A partir de la creacion de la BD , empezo con el desarrollo de una <br>
-
-aplicacion y realizo el modelado de dos clases : Curso, Tema, en donde un curso puede contener varios temas <br>
-
-A partir de esto , el estudiante desea desarrollar una API que le permita realizar las siguientes acciones :<br>
-
-1)Crear un nuevo curso
-2)Crear temas y asociar un curso
-3)Obttener todos los cursos
-4)Obtener todos los temas de un determinado curso
-5)Obtener todo los cursos que contengan la palabra "Java"
-6)Modifciar los datos de un curso
-7) Modificar los datos de un determinado tema.
+<ul>
+  <li>Crear un nuevo curso</li>
+  <li>Crear temas y asociarlos a un curso</li>
+  <li>Obtener todos los cursos</li>
+  <li>Obtener todos los temas de un determinado curso</li>
+</ul>
